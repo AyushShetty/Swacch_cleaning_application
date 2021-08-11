@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1030056960174",
+    "firebase_url": "https://ghost-8976280200.firebaseio.com",
+    "project_id": "ghost-8976280200",
+    "storage_bucket": "ghost-8976280200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030056960174:android:64365a220a34c668",
+        "android_client_info": {
+          "package_name": "com.error404.free_pirate.ghost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030056960174-3vluhdamcqhevl5kdbv5cp3epk7snik5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDel5n1JKXVB5IIOWH2B1OMH9-7sR2LDSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
